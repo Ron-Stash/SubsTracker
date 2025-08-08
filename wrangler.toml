@@ -7,7 +7,7 @@ compatibility_flags = ["nodejs_compat"]
 name = "subscription-manager"
 
 [env.staging]
-name = "subscription-manager-staging"
+name = "sub"
 
 # KV 命名空间配置
 [[kv_namespaces]]
